@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-+    printf("1-addition 2-substraction 3-multiplication 4-division");
+   printf("1-addition 2-substraction 3-multiplication 4-division");
     int ch;
     printf("\n ENTER YOUR CHOICE:");
     scanf("%d",&ch);
